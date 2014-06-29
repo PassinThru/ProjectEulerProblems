@@ -1,0 +1,7 @@
+This is a collection of Project Euler challenge problems. Currently, the collection consists
+of:
+
+Problem 17: Number letter counts, solved by NumberLetterCounts.py
+Problem 54: Poker hands, solved by PokerHands.py using poker.txt
+Problem 96: Su Doku, solved by Sudoku.py using sudoku.txt
+
